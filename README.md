@@ -7,7 +7,9 @@
 
 ---
 
-## Casado 💍, Pai de Pet 🐱😺🐶, Front-end Developer 👨‍💻, Tatuado 🎨 e Apreciador de um bom café ☕
+<br />
+
+### Casado 💍, Pai de Pet 🐱😺🐶, Front-end Developer 👨‍💻, Tatuado 🎨 e Apreciador de um bom café ☕
 
 <br />
 
@@ -42,18 +44,11 @@
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
-
 ---
-
-<br />
 
 ### 📕 Artigos:
 
 - [Cuidado com o “prop drilling” no React](https://medium.com/@rafapaci/cuidado-com-o-prop-drilling-no-react-12a0f8e992a8)
-
-<br />
 
 ---
 
