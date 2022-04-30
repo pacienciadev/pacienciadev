@@ -16,6 +16,7 @@
 ### Curiosidades:
 
 - 🌱 Desenvolvedor em constante evolução
+- 👴 Mais de 10 anos de experiência com desenvolvimento
 - 👨‍💻 Dev apaixonado por JS e suas stacks (React, React Native, Vue, Node, etc)
 - 🎨 Knowhow em Desenvolvimento de interfaces e aplicações web
 - 😅 Full-stack por necessidade
@@ -44,7 +45,6 @@
 <img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 
-<br />
 <br />
 <br />
 
