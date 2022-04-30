@@ -1,13 +1,11 @@
 # Olá mundo, meu nome é Rafael Eduardo!
 
-## Também conhecido como Ursones ou Paciência 👋🧐
+### Também conhecido como Ursones ou Paciência 👋🧐
 
 [![Website](https://img.shields.io/website?label=rafaworks.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaworks.com.br)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rafa_paciencia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rafa_paciencia)
 
 ---
-
-<br />
 
 ## Casado 💍, Pai de Pet 🐱😺🐶, Front-end Developer 👨‍💻, Tatuado 🎨 e Apreciador de um bom café ☕
 
@@ -28,8 +26,6 @@
 
 ---
 
-<br />
-
 ### Linguagens e ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -48,7 +44,6 @@
 
 <br />
 <br />
-<br />
 
 ---
 
@@ -62,8 +57,6 @@
 
 ---
 
-<br />
-
 ## Um pouquinho mais da minha pessoa
 
 ### Me chama para tomar um café ☕
@@ -76,8 +69,4 @@
 
 [twitter]: https://twitter.com/rafa_paciencia
 [instagram]: https://www.instagram.com/ursone/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/rafael-eduardo-aa541046/
