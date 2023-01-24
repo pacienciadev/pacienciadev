@@ -2,7 +2,7 @@
 
 ### Também conhecido como Ursones ou Paciência 👋🧐
 
-[![Website](https://img.shields.io/website?label=rafaworks.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaworks.com.br - Em construção.) 
+[![Website](https://img.shields.io/website?label=in%20dev%20-%20rafaworks.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaworks.com.br) 
 
 ---
 
