@@ -2,8 +2,7 @@
 
 ### Também conhecido como Ursones ou Paciência 👋🧐
 
-[![Website](https://img.shields.io/website?label=rafaworks.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaworks.com.br)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rafa_paciencia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rafa_paciencia)
+[![Website](https://img.shields.io/website?label=rafaworks.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rafaworks.com.br) [Em construção.]
 
 ---
 
@@ -49,8 +48,7 @@
 <br />
 
   <a href="https://github.com/ursones">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ursones&show_icons=true&theme=react&line_height=27" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursones&layout=compact&theme=react&line_height=27" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursones&layout=compact&theme=dracula&line_height=36" style="width:100vw;">
   </a>
 
 ---
