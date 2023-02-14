@@ -47,10 +47,6 @@
 <br />
 <br />
 
-  <a href="https://github.com/ursones">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacienciadev&layout=compact&theme=dracula&line_height=36">
-  </a>
-
 ---
 
 ### 📕 Artigos:
