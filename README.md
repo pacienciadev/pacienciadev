@@ -8,7 +8,7 @@
 
 <br />
 
-### Casado 💍, Pai de Pet 🐱😺🐶, Front-end Developer 👨‍💻, Tatuado 🎨 e Apreciador de um bom café ☕
+### Casado 💍, Pai de Pets 🥰, Front-end Developer 👨‍💻, Tatuado 🎨 e Apreciador de um bom café ☕
 
 <br />
 
@@ -16,11 +16,9 @@
 
 - 🌱 Desenvolvedor em constante evolução
 - 👴 Mais de 10 anos de experiência com desenvolvimento
-- 👨‍💻 Dev apaixonado por JS e suas stacks (React, React Native, Vue, Node, etc)
-- 🎨 Knowhow em Desenvolvimento de interfaces e aplicações web
+- 👨‍💻 Dev apaixonado por JS e suas stacks (Angular, React, React Native, Vue, Node, etc)
+- 🎨 Knowhow em Desenvolvimento de interfaces e aplicações
 - 😅 Full-stack por necessidade
-- 🥅 2022 Goals pt.1: Estudando para virar Especialista em Javascript
-- 🥅 2022 Goals pt.2: Início do curso Sistemas de Informação na FIAP
 - ⚡ Fun fact: Amo desenhar e estou aprendendo a tocar violão 🎸
 - 🥰 Eu tenho uma coleção de NFT's criada por mim: [Rarible - Rafaworks](https://rarible.com/rafaworks)
 
